@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Mohamad Jamous
-Experienced Android Engineer with 5 years of hands-on development expertise. Proficient in Java and Kotlin, with a strong foundation in Jetpack, Firebase, and UI/UX design principles. 
+Experienced Mobile Developer with 5 years of hands-on development expertise. Proficient in Java and Kotlin, Swift and SwiftUI, with a strong foundation in Jetpack, Firebase, and UI/UX design principles. 
 
 
 
-Skills: Java | Kotlin | Jetpack | Firebase | UI/UX Design | RESTful APIs | MVVM Architecture | Reactive Programming | Unit Testing  | Agile Methodologies | Git Version Control | Material Design | Performance Optimization | Android Studio | Debugging | App Security | Push Notifications  | Custom Views and Animations | App Monetization 
+Skills: Java | Kotlin | Jetpack | Firebase | UI/UX Design | RESTful APIs | MVVM Architecture | Reactive Programming | Unit Testing  | Agile Methodologies | Git Version Control | Material Design | Performance Optimization | Android Studio | Debugging | App Security | Push Notifications  | Custom Views and Animations | App Monetization | Swift | SwiftUI | Xcode
 
 
 
