@@ -14,4 +14,4 @@ Skills: Java | Kotlin | Jetpack | Firebase | UI/UX Design | RESTful APIs | MVVM 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mohamadjamous)  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamadjamous)](https://github.com/ryo-ma/github-profile-trophy)
+
