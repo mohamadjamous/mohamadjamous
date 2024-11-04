@@ -14,6 +14,4 @@ I am a Mobile Developer and Software Engineer with 5 years of experience creatin
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamadjamous&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadjamous&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
