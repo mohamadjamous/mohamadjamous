@@ -1,5 +1,5 @@
 # About Me:
-I am a Mobile Developer and Software Engineer with 5 years of experience creating high-quality apps for Android and iOS. I specialize in building robust applications with shared business logic, delivering seamless user experiences, and crafting solutions that make a lasting impact on mobile platforms.
+I am a Mobile Developer and Software Engineer with 5 years of experience creating high-quality apps for Android and IOS. I specialize in building robust applications with shared business logic, delivering seamless user experiences, and crafting solutions that make a lasting impact on mobile platforms.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-jamous-108488214/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15704156) 
