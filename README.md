@@ -1,8 +1,11 @@
 # About Me:
-I am a Software Engineer with 5 years of experience creating high-quality mobile apps for Android and IOS. I specialize in building robust applications with shared business logic, delivering seamless user experiences, and crafting solutions that make a lasting impact on mobile platforms.
+👋 Hi there!
+I’m a Software Engineer with 5 years of experience in Android and iOS development. I specialize in Kotlin, Java, Swift, and SwiftUI, leveraging technologies like MVVM, coroutines, Jetpack Compose, and Firebase to build seamless mobile apps. Passionate about creating efficient, user-centered solutions and always eager to collaborate on impactful projects. 🚀
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-jamous-108488214/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15704156) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-jamous-108488214/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15704156)  [![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=linkedin&logoColor=white)](https://mohamadejamous.wixsite.com/my-site-2)
+
 
 
 # 💻 Tech Stack:
