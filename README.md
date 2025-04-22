@@ -1,6 +1,7 @@
 # About Me:
 👋 Hi there!
-I’m a Software Engineer with 5 years of experience in Android and iOS mobile development. I specialize in Kotlin, Java, Swift, and SwiftUI, leveraging technologies like MVVM, coroutines, Jetpack Compose, and Firebase to build seamless mobile apps. Passionate about creating efficient, user-centered solutions and always eager to collaborate on impactful projects. 🚀
+I’m a Senior Android Engineer with 5+ years of experience building high-quality native Android apps. Proficient in Kotlin, Java, Jetpack Compose, MVVM, Coroutines, and Firebase. I lead Android projects from idea to release, focusing on performance, clean architecture, and great user experience. Passionate about crafting intuitive, scalable mobile solutions and integrating third-party APIs with efficiency.
+
 
 
 ## 🌐 Socials:
