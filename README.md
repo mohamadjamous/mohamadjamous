@@ -1,6 +1,5 @@
 # About Me:
-👋 Hi there!
-I’m a Senior Android Engineer with 5+ years of experience building high-quality native Android apps. Proficient in Kotlin, Java, Jetpack Compose, MVVM, Coroutines, and Firebase. I lead Android projects from idea to release, focusing on performance, clean architecture, and great user experience. Passionate about crafting intuitive, scalable mobile solutions and integrating third-party APIs with efficiency.
+👋 Hi there! I’m a Senior Android Engineer with 5+ years of experience building high-quality mobile apps. Proficient in Kotlin, Java, Jetpack Compose, MVVM, Coroutines, and Firebase — with cross-platform experience using Kotlin Multiplatform Mobile (KMM) and Swift/SwiftUI. I lead projects from idea to release, focusing on performance, clean architecture, and intuitive user experiences.
 
 
 
