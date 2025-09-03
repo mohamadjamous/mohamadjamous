@@ -1,5 +1,11 @@
 # About Me:
-👋 Hi there! I’m a **Senior Mobile Software Engineer** with 5+ years of experience building high-quality native and cross-platform mobile apps. Skilled in Kotlin, Java, Jetpack Compose, Swift, and SwiftUI with expertise in MVVM, Coroutines, Firebase, and Kotlin Multiplatform Mobile (KMM). I lead projects from idea to release, focusing on performance, clean architecture, and exceptional user experience.
+👋 Hello there! I’m a **Software Engineer - (Android & iOS)** with 5+ years of experience building high-quality native and cross-platform mobile apps. Skilled in Kotlin, Java, Jetpack Compose, Swift, and SwiftUI with expertise in MVVM, Coroutines, Firebase, and Kotlin Multiplatform Mobile (KMM). I lead projects from idea to release, focusing on performance, clean architecture, and exceptional user experience.
+
+Impact Highlights:
+
+Developed and released multiple Android applications with a combined total of over 15,000 downloads.
+Improved app stability by reducing crash rates by 35% through testing and code reviews.
+Collaborated with cross-functional teams to deliver features that contributed to a 20% increase in user retention.
 
 
 
