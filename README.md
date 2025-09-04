@@ -3,7 +3,7 @@
 
 Impact Highlights:
 
-Developed and released multiple Android applications with a combined total of over 15,000 downloads.
+Developed and released multiple Android applications with a combined total of over 16,000 downloads.
 Improved app stability by reducing crash rates by 35% through testing and code reviews.
 Collaborated with cross-functional teams to deliver features that contributed to a 20% increase in user retention.
 
