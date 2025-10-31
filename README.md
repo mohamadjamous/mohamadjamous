@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm a **Senior Android Software Engineer** building high-performance, user-focused mobile applications. I specialize in creating clean, scalable solutions using Kotlin, Jetpack Compose, and modern architecture patterns to deliver smooth, reliable user experiences.
+**Senior Android Software Engineer** building high-performance, user-focused mobile applications. I specialize in creating clean, scalable solutions using Kotlin, Jetpack Compose, and modern architecture patterns to deliver smooth, reliable user experiences.
 
 
 # 💡 Languages & Frameworks  
